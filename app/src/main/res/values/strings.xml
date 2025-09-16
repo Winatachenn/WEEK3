@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Week3</string>
+    <!-- Daftar kopi -->
+    <string name="coffee_list">Coffee List</string>
+    <string name="affogato_title">Affogato</string>
+    <string name="affogato_desc">Espresso dengan es krim vanilla.</string>
+
+    <string name="americano_title">Americano</string>
+    <string name="americano_desc">Espresso dengan tambahan air panas.</string>
+
+    <string name="latte_title">Latte</string>
+    <string name="latte_desc">Espresso dengan susu panas dan busa tipis.</string>
+
+    <string name="cappuccino_title">Cappuccino</string>
+    <string name="cappuccino_desc">Perpaduan espresso, susu panas, dan buih susu tebal.</string>
+
+    <string name="espresso_title">Espresso</string>
+    <string name="espresso_desc">Kopi pekat klasik dengan rasa kuat dan kaya.</string>
+
+    <!-- Default / fallback -->
+    <string name="default_title">Coffee</string>
+    <string name="default_desc">Pilih salah satu menu kopi untuk melihat detailnya.</string>
+</resources>
